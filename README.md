@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello! 👋 
+## My name is Jan K. Schlüsener
 
-<!--
-**jkschluesener/jkschluesener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Currently working in Neuroscience
+- 🖼️ Working on image representation and processing in the brain
 
-Here are some ideas to get you started:
+## Skills:
+- 📊 Data Analysis
+- ⚙️ Machine Learning and Statistics
+- 🐍 Python, R and Matlab
+- 🖥️ Linux Server and Cluster Computing
+- 💾 SQL and NoSQL
+- ⬆️ Large and complex datasets
+- 🧹 Creating structured data from unstructured inputs
+- 📦 Data warehousing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jkschluesener.xyz)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkschluesener/)
+
