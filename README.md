@@ -1,10 +1,10 @@
-# Hello! 👋 
-## My name is Jan K. Schlüsener
+# Hi, I'm Jan :wave:
 
 - 🧠 Currently working in Neuroscience
-- 🖼️ Working on image representation and processing in the brain
+- 🖼️ Working on image representation & processing in the brain
 
-## Skills:
+## Skills
+
 - 📊 Data Analysis
 - ⚙️ Machine Learning and Statistics
 - 🐍 Python, R and Matlab
@@ -15,7 +15,7 @@
 - 📦 Data warehousing
 
 ## Contact
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jkschluesener.xyz)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkschluesener/)
 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jkschluesener.xyz)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkschluesener/)
