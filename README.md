@@ -5,12 +5,13 @@
 
 ## Skills
 
+- 🐍 Pythonista
 - 📊 Data Analysis
-- ⚙️ Machine Learning and Statistics
-- 🐍 Python, R and Matlab
-- 🖥️ Linux Server and Cluster Computing
-- 💾 SQL and NoSQL
-- ⬆️ Large and complex datasets
+- ⚙️ Machine Learning and classic Statistics
+- 🖥️ Linux Server and HPC Cluster Maintenance
+- 💾 SQL, NoSQL
+- 🔌 Full-Stack Neurophysiology
+- ⬆️ Experience working with large and complex datasets
 - 🧹 Creating structured data from unstructured inputs
 - 📦 Data warehousing
 
